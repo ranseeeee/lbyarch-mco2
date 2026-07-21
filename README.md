@@ -14,7 +14,7 @@ Result Check vs C execution: SUCCESS
 --- PART 2: Performance Profiling (30-run average per size) ---
 Total Pixels |    Dimensions | Correctness Check |       Avg Run Time
 ------------------------------------------------------------------------
-       100 |     10x10     |          PASSED |           0.000323 ms
-     10000 |    100x100    |          PASSED |           0.029440 ms
-   1000000 |   1000x1000   |          PASSED |           2.866137 ms
+        100 |     10x10     |          PASSED |           0.000323 ms
+      10000 |    100x100    |          PASSED |           0.029440 ms
+    1000000 |   1000x1000   |          PASSED |           2.866137 ms
 ------------------------------------------------------------------------
